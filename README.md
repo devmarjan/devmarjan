@@ -16,7 +16,7 @@
 
 I'm a Full Stack Web Developer in progress, based in Dhaka, Bangladesh. I enjoy turning ideas into clean, responsive websites, and I'm steadily building my skills from frontend fundamentals toward the full stack.
 
-📍 **Location:** Dhaka, Bangladesh &nbsp;|&nbsp; 📧 **Email:** your-email@gmail.com
+📍 **Location:** Dhaka, Bangladesh &nbsp;|&nbsp; 📧 **Email:** kurs.marjan@gmail.com
 
 ### 🔭 Currently
 
