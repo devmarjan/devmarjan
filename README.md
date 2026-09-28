@@ -14,12 +14,15 @@
 
 ## 👋 About Me
 
-- 🌱 Currently strengthening my **HTML, CSS & JavaScript** foundations and moving toward full stack development
-- 💻 I enjoy turning ideas into clean, working websites — one project at a time
-- 🎯 Focused on writing code that is simple, readable, and easy to maintain
-- 📍 Based in Dhaka, Bangladesh
-- 🤝 Open to collaborating on meaningful web projects
-- ⚡ Fun fact: exploring new tech and traveling both keep me curious and bring fresh ideas to my work
+I'm a Full Stack Web Developer in progress, based in Dhaka, Bangladesh. I enjoy turning ideas into clean, responsive websites, and I'm steadily building my skills from frontend fundamentals toward the full stack.
+
+📍 **Location:** Dhaka, Bangladesh &nbsp;|&nbsp; 📧 **Email:** your-email@gmail.com
+
+### 🔭 Currently
+
+- 🔭 Building practice projects like a portfolio site and a food-delivery UI clone using **HTML, CSS & JavaScript**
+- 🌱 Learning JavaScript fundamentals and sharpening my Git & GitHub workflow
+- 👯 Looking to collaborate on frontend projects with a clear purpose
 
 ---
 
@@ -47,7 +50,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=devmarjan&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmarjan&theme=radical&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=devmarjan&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="left">
@@ -64,14 +67,6 @@
 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=devmarjan&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 💬 Random Dev Quote
-
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
